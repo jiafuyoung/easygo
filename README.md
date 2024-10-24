@@ -1,0 +1,2 @@
+# easygo
+go lib
