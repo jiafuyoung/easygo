@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	s "github.com/jiafuyoung/easygo/beta/stack"
+	s "github.com/jiafuyoung/easygo/stack"
 )
 
 func main() {
